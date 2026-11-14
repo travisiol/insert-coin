@@ -1,0 +1,9 @@
+node_modules
+.next
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+public/cursor.png
+public/apple-touch-icon.png
+.data
+.env*
